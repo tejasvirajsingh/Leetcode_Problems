@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
