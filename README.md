@@ -23,4 +23,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0190-reverse-bits/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
