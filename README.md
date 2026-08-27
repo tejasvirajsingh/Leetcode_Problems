@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
@@ -50,4 +51,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 <!---LeetCode Topics End-->
