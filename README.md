@@ -15,6 +15,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
+| [0162-find-peak-element](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
 ## Hash Table
@@ -55,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0162-find-peak-element](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
 <!---LeetCode Topics End-->
