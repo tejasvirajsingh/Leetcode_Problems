@@ -16,6 +16,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
+| [0414-third-maximum-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
 ## Hash Table
@@ -54,6 +55,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
+| [0414-third-maximum-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0414-third-maximum-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
