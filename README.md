@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
+| [1108-defanging-an-ip-address](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
