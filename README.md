@@ -33,6 +33,7 @@
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
@@ -53,6 +54,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0680-valid-palindrome-ii](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,6 +71,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0680-valid-palindrome-ii](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
