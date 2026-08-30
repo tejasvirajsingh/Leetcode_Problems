@@ -19,6 +19,7 @@
 | [0414-third-maximum-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +68,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
