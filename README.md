@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -53,6 +54,7 @@
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0190-reverse-bits/) | Easy |
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
