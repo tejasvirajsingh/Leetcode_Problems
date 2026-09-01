@@ -14,6 +14,7 @@
 | [0001-two-sum](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0055-jump-game](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
@@ -69,6 +70,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -78,6 +80,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0055-jump-game](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
