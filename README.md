@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0066-plus-one/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -15,6 +16,7 @@
 | [0014-longest-common-prefix](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0055-jump-game](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0055-jump-game/) | Medium |
+| [0066-plus-one](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0136-single-number/) | Easy |
 | [0162-find-peak-element](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0162-find-peak-element/) | Medium |
