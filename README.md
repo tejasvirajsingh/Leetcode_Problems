@@ -31,6 +31,7 @@
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3120-count-the-number-of-special-characters-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
