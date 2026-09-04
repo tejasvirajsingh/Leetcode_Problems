@@ -25,6 +25,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +101,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
