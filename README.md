@@ -47,6 +47,7 @@
 | [1108-defanging-an-ip-address](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
+| [3174-clear-digits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3174-clear-digits/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -105,4 +106,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3903-smallest-stable-index-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3174-clear-digits/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3174-clear-digits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3174-clear-digits/) | Easy |
 <!---LeetCode Topics End-->
