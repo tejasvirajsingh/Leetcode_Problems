@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0066-plus-one](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0066-plus-one/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -23,6 +24,7 @@
 | [0414-third-maximum-number](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [0941-valid-mountain-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0941-valid-mountain-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3903-smallest-stable-index-i/) | Easy |
@@ -34,6 +36,7 @@
 | [0389-find-the-difference](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0389-find-the-difference/) | Easy |
 | [0500-keyboard-row](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0500-keyboard-row/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
@@ -97,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0884-uncommon-words-from-two-sentences](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
@@ -116,4 +120,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3174-clear-digits](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/3174-clear-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/tejasvirajsingh/Leetcode_Problems/tree/main/0914-x-of-a-kind-in-a-deck-of-cards/) | Easy |
 <!---LeetCode Topics End-->
